@@ -1,2 +1,3 @@
 # Script-API-Stuff
-all of my thingamajigs
+Simple way to track statistics or basically whatever value on weapons
+
