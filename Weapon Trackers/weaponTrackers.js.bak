@@ -18,7 +18,7 @@ export class Tracker {
     constructor(defs) {
         this.id = defs.id
         this.format = defs.format
-        this.regex = new RegExp(`${this.format.replace(`(value)`, `(-?\\d+)`)}`)
+        this.regex = new RegExp(`${this.format.replace(`(value)`, `(\\d+)`)}`)
 
 
         //ik this is bad practice but whateva just make sure to be smart 
