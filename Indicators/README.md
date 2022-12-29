@@ -1,2 +1,2 @@
-# Script-API-Stuff
+# Indicators
 A cool way to show info like damage and other stuff
